@@ -1,0 +1,16 @@
+# Ignore PyTorch model weights
+yolov8x.pt
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Ignore IDE files
+.vscode/
+.idea/
